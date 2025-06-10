@@ -42,11 +42,11 @@ Check out my [Portfolio Website](https://utkarsharjariya.me).
 ## 📫 Connect With Me
 
 * Twitter: [@UtkarshArjariya](https://x.com/Utkarsh_A7)
-* LinkedIn: [in/utkarsh-arjariya](https://linkedin.com/in/utkarsh-arjariya)
+* LinkedIn: [in/utkarsharjariya](https://linkedin.com/in/utkarsharjariya)
 
 ---
 
-*Building the future, one line of code (and one cup of chai) at a time.*
+*Building the future, one line of code (and one cup of coffee) at a time.*
 
 
 ### 📊 GitHub Stats
