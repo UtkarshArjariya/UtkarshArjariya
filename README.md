@@ -1,4 +1,4 @@
-** Namaste, Internet!**
+**Namaste, Internet!**
 
 # Utkarsh Arjariya
 
